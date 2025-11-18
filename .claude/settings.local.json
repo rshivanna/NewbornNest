@@ -28,7 +28,8 @@
       "Bash(if [ ! -d doc ])",
       "Bash(then mkdir doc)",
       "Bash(mkdir:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(git check-ignore:*)"
     ],
     "deny": [],
     "ask": []
