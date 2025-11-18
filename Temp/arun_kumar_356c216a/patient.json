@@ -1,0 +1,29 @@
+{
+  "id": "f35ecb60-f11e-48b0-8ba5-d474b9d1053a",
+  "babyName": "Arun Kumar",
+  "motherName": "Annapoorna",
+  "address": "1 main street , Madras, India",
+  "babyDetails": {
+    "gestationalAge": "",
+    "weightKg": 0,
+    "sex": "",
+    "heartRateBpm": 0,
+    "temperatureC": 0
+  },
+  "maternalDetails": {
+    "maternalAgeYears": 0,
+    "parity": "",
+    "location": "",
+    "maternalEducation": "",
+    "deliveryMode": "",
+    "gestationalHistory": "",
+    "gestationalAgeEstimationMethod": ""
+  },
+  "images": {
+    "face": "http://localhost:3000/api/files/camera-1763238230137-1ad1dfb1-2918-4c50-ae5c-c806dc994afa.jpg"
+  },
+  "folderName": "arun_kumar_356c216a",
+  "folderPath": "C:\\MyProject\\AI\\Satya\\newborn-nest-app-main_V1\\backend\\data\\arun_kumar_356c216a",
+  "createdAt": "2025-11-15T20:13:25.284Z",
+  "updatedAt": "2025-11-15T20:37:37.138Z"
+}

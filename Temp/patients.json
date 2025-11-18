@@ -1,0 +1,21 @@
+[
+  {
+    "id": "d8b31d56-80bf-4651-9150-ccf697211362",
+    "babyName": "raj",
+    "motherName": "shiv",
+    "address": "1 main st",
+    "babyWeight": 3.4,
+    "babySex": "male",
+    "heartRate": 140,
+    "temperature": 36.5,
+    "maternalAge": 33,
+    "parity": 1,
+    "location": "irvine ca",
+    "maternalEducation": "high school",
+    "deliveryMode": "cesarean",
+    "gestationalAgeEstimate": 38,
+    "createdAt": "2025-11-15T19:05:15.963Z",
+    "updatedAt": "2025-11-15T19:21:18.368Z",
+    "images": {}
+  }
+]

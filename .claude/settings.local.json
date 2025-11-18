@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(move:*)",
+      "Bash(move public frontend\\ )",
+      "Bash(move index.html frontend\\ )",
+      "Bash(move package-lock.json frontend\\ )",
+      "Bash(move vite.config.ts frontend\\ )",
+      "Bash(move tsconfig.json frontend\\ )",
+      "Bash(move tsconfig.app.json frontend\\ )",
+      "Bash(move tailwind.config.ts frontend\\ )",
+      "Bash(move postcss.config.js frontend\\ )",
+      "Bash(move eslint.config.js frontend\\ )",
+      "Bash(move components.json frontend\\ )",
+      "Bash(move README.md frontend\\)",
+      "Bash(if [ -f bun.lockb ])",
+      "Bash(then mv bun.lockb frontend/)",
+      "Bash(fi)",
+      "Bash(if [ -f .gitignore ])",
+      "Bash(then mv .gitignore frontend/)",
+      "Bash(npm install)",
+      "Bash(node src/server.js:*)",
+      "Bash(lsof:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(curl:*)",
+      "Bash(if [ ! -d doc ])",
+      "Bash(then mkdir doc)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
